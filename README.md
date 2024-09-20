@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I am Fuzail Ahamad.
+I am Fuzail Ahamad. :) 
 <!--
 **FuzailAhamad/FuzailAhamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
