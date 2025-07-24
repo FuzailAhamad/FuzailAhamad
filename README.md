@@ -1,8 +1,13 @@
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/devsnest-open/main/assets/devops-banner.png" alt="DevOps Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Fuzail Ahamad</h1>
 <h3 align="center">🚀 Aspiring DevOps & Cloud Engineer | AWS Certified | Linux Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/FuzailAhamad/FuzailAhamad/blob/main/banner.png" alt="devops-banner" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=FuzailAhamad&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 ---
@@ -12,6 +17,7 @@
 - 👯 I’m looking to collaborate on **Cloud & DevOps projects**
 - 💬 Ask me about **AWS, Linux, Docker, Jenkins**
 - 📫 Reach me at **fuzailahmad672@gmail.com**
+
 
 ---
 
