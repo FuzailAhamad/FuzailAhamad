@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/devsnest-open/main/assets/devops-banner.png" alt="DevOps Banner" width="100%" />
+  <img src="./banner.png" alt="DevOps Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Fuzail Ahamad</h1>
