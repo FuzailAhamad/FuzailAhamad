@@ -1,33 +1,65 @@
-👋 Hi there! I'm Fuzail Ahamad. I'm a passionate DevOps enthusiast working on automating software delivery pipelines and building scalable infrastructure.
+<h1 align="center">Hi 👋, I'm Fuzail Ahamad</h1>
+<h3 align="center">🚀 Aspiring DevOps & Cloud Engineer | AWS Certified | Linux Enthusiast</h3>
 
-🚀 Currently building robust CI/CD pipelines using Jenkins, with integrated SonarQube analysis, Docker containerization, and deployment workflows to AWS ECS via Amazon ECR.
+<p align="center">
+  <img src="https://github.com/FuzailAhamad/FuzailAhamad/blob/main/banner.png" alt="devops-banner" width="100%" />
+</p>
 
-💡 I’m especially focused on:
+---
 
-Continuous Integration and Continuous Deployment best practices
+- 🔭 I’m currently working on **CI/CD Pipelines with Jenkins & Docker**
+- 🌱 I’m currently learning **Kubernetes** & **Terraform**
+- 👯 I’m looking to collaborate on **Cloud & DevOps projects**
+- 💬 Ask me about **AWS, Linux, Docker, Jenkins**
+- 📫 Reach me at **fuzailahmad672@gmail.com**
 
-Infrastructure automation and container orchestration
+---
 
-Improving code quality and delivery speed
+### 🧰 Languages & Tools:
 
-Hands-on experience with Linux, scripting, and open-source tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
+</p>
 
-🛠️ Tech I use:
+---
 
-CI/CD: Jenkins, GitHub Actions
+### 📊 GitHub Stats
 
-Containers: Docker, Amazon ECR, ECS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FuzailAhamad&show_icons=true&theme=tokyonight" alt="Fuzail's GitHub stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuzailAhamad&layout=compact&theme=tokyonight" height="180px"/>
+</p>
 
-Code Quality: SonarQube
+---
 
-Cloud: AWS
+### 🏆 Certifications
+- ✅ AWS Certified Cloud Practitioner  
+- 🥈 NPTEL – Cloud Computing & Distributed Systems *(Silver Medal)*  
+- 📘 NPTEL – Database Management Systems  
+📂 [All Certificates](https://drive.google.com/drive/folders/1oKrCrIm7nKy2GsD2Zz48asVrRouz09nK?usp=sharing)
 
-OS: Linux (daily driver!)
+---
 
-📘 Currently exploring:
+### 🔗 Connect With Me
 
-Kubernetes fundamentals
+<p align="left">
+  <a href="https://www.linkedin.com/in/fuzail-ahamad-329287251" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/FuzailAhamad18" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/fuzail6655" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+</p>
 
-Terraform for infrastructure as code
+---
 
-Monitoring and observability tools like Prometheus + Grafana
+💡 *“Passionate about building cloud-native, scalable, and resilient systems through DevOps excellence.”*
+
+⭐ _Looking for DevOps/Cloud Engineer Internships or Entry-level Roles_
