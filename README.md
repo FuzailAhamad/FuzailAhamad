@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on **CI/CD Pipelines with Jenkins & Docker**
 - 🌱 I’m currently learning **Kubernetes** & **Docker**
 - 👯 I’m looking to collaborate on **Cloud & DevOps projects**
-- 💬 Ask me about **AWS, Linux, Docker, Jenkins**
+- 💬 Ask me about **AWS, Linux, Docker, Jenkins, Terraform, VPC**
 - 📫 Reach me at **fuzailahmad672@gmail.com**
 - 📄 [My Resume] (https://drive.google.com/file/d/13thb-vTDi_Y9K4MLBfrJZTLre41-a-Mf/view?usp=sharing)
 
