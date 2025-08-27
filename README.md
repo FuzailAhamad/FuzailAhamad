@@ -13,7 +13,7 @@
 ---
 
 - 🔭 I’m currently working on **CI/CD Pipelines with Jenkins & Docker**
-- 🌱 I’m currently learning **Kubernetes** & **Terraform**
+- 🌱 I’m currently learning **Kubernetes** & **Docker**
 - 👯 I’m looking to collaborate on **Cloud & DevOps projects**
 - 💬 Ask me about **AWS, Linux, Docker, Jenkins**
 - 📫 Reach me at **fuzailahmad672@gmail.com**
