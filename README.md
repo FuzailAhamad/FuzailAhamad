@@ -49,7 +49,7 @@
 ---
 
 ### 🏆 Certifications
-- ✅ AWS Certified Cloud Practitioner  
+- ✅ AWS Certified Cloud Practitioner (Udemy Course Completed)
 - 🥈 NPTEL – Cloud Computing & Distributed Systems *(Silver Medal)*  
 - 📘 NPTEL – Database Management Systems  
 📂 [All Certificates](https://drive.google.com/drive/folders/1oKrCrIm7nKy2GsD2Zz48asVrRouz09nK?usp=sharing)
