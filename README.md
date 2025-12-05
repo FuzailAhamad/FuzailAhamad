@@ -39,12 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FuzailAhamad&show_icons=true&theme=tokyonight" alt="Fuzail's GitHub stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuzailAhamad&layout=compact&theme=tokyonight" height="180px"/>
-</p>
 
 ---
 
