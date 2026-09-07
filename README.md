@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="./banner.png" alt="Software Engineer Banner" width="100%" />
+  <img src="https://drive.google.com/file/d/1GT0Q51gNLXg9i_vywKQMkbRehRwC29P1/view?usp=sharing" alt="Software Engineer Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Fuzail Ahamad</h1>
