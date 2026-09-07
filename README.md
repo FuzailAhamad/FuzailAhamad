@@ -1,18 +1,23 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1GT0Q51gNLXg9i_vywKQMkbRehRwC29P1/view?usp=sharing" alt="Software Engineer Banner" width="100%" />
+  <img src="./banner.png" alt="Software Engineer - Full-Stack Development Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Fuzail Ahamad</h1>
 
-<h3 align="center">💻 Software Engineer | Full-Stack Development | React.js • Node.js • Express.js</h3>
+<h3 align="center">
+  💻 Software Engineer | Full-Stack Development | MERN Stack
+</h3>
+
+<p align="center">
+  React.js • Node.js • Express.js • TypeScript • REST APIs
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FuzailAhamad&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 ---
-
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **full-stack web applications using React.js, Node.js & Express.js**
