@@ -1,7 +1,4 @@
 <!-- Banner Section -->
-<p align="center">
-  <img src="./banner.png" alt="Software Engineer - Full-Stack Development Banner" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Fuzail Ahamad</h1>
 
@@ -11,10 +8,6 @@
 
 <p align="center">
   React.js • Node.js • Express.js • TypeScript • REST APIs
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FuzailAhamad&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
 
 ---
