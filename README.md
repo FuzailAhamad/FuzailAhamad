@@ -87,12 +87,10 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=FuzailAhamad&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
-    alt="Fuzail's GitHub Stats"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuzailAhamad&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
-    alt="Fuzail's Top Languages"
   />
 </p>
 
